@@ -1,0 +1,7 @@
+{
+  "ignored_packages": {},
+  "whitelist": [],
+  "projects": [
+    "./pom.xml"
+  ]
+}
