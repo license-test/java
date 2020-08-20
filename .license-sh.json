@@ -33,6 +33,7 @@
     "CPL-1.0"
   ],
   "projects": [
-    "./pom.xml"
+    "./pom.xml",
+    "./demo/pom.xml"
   ]
 }
