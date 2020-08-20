@@ -86,7 +86,6 @@
   "ignored_packages": {},
   "whitelist": [],
   "projects": [
-    "./pom.xml",
-    "./demo/pom.xml"
+    "./pom.xml"
   ]
 }
