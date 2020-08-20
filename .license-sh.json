@@ -32,5 +32,7 @@
     "Public Domain",
     "CPL-1.0"
   ],
-  "projects": []
+  "projects": [
+    "./pom.xml"
+  ]
 }
