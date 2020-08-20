@@ -1,11 +1,7 @@
 {
   "ignored_packages": {},
-  "whitelist": [
-    "Apache-2.0",
-    "Artistic-2.0"
-  ],
+  "whitelist": [],
   "projects": [
-    "./pom.xml",
-    "./demo/pom.xml"
+    "./pom.xml"
   ]
 }
