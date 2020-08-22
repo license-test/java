@@ -1,5 +1,9 @@
 {
-  "ignored_packages": {},
+  "ignored_packages": {
+    "maven": [
+      "javassist==3.22.0-GA"
+    ]
+  },
   "whitelist": [
     "EPL-1.0",
     "New BSD License",
