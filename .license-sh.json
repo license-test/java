@@ -1,8 +1,13 @@
 {
   "ignored_packages": {},
-  "projects": [
-    "./pom.xml",
-    "./demo/pom.xml"
+  "whitelist": [
+    "EPL-1.0",
+    "New BSD License",
+    "Apache-2.0",
+    "GPL-2.0 w/Classpath Exception",
+    "MIT"
   ],
-  "whitelist": []
+  "projects": [
+    "./pom.xml"
+  ]
 }
