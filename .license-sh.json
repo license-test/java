@@ -17,7 +17,6 @@
     "MPL-1.1"
   ],
   "projects": [
-    "./pom.xml",
-    "./demo/pom.xml"
+    "./pom.xml"
   ]
 }
