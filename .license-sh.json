@@ -4,19 +4,46 @@
       "jmh-generator-annprocess==1.20",
       "jmh-core==1.20",
       "javassist==3.22.0-GA",
-      "hamcrest-core==1.3"
+      "hamcrest-core==1.3",
+      "jackson-core==2.9.5",
+      "jackson-databind==2.9.5"
     ]
   },
+  "projects": [
+    "./pom.xml"
+  ],
   "whitelist": [
     "New BSD License",
     "GPL-2.0 w/Classpath Exception",
+    "Apache-1.1",
+    "Apache-2.0",
+    "Artistic-2.0",
+    "BSD",
+    "AFL-2.1",
+    "Apache-1.0",
     "MIT",
     "MIT/X11",
-    "MPL 1.1",
+    "BSD-3-Clause",
+    "BSD-2-Clause",
+    "BSD-1-Clause",
+    "Unlicense",
+    "JSON",
+    "ISC",
+    "BSL-1.0",
+    "X11",
+    "NCSA",
+    "UPL-1.0",
     "MPL-1.0",
-    "MPL-1.1"
-  ],
-  "projects": [
-    "./pom.xml"
+    "MPL-1.1",
+    "MPL-2.0",
+    "Zlib",
+    "CC0-1.0",
+    "CC-BY-3.0",
+    "CC-BY-4.0",
+    "WTFPL",
+    "EPL-1.0",
+    "MPL 1.1",
+    "Public Domain",
+    "CPL-1.0"
   ]
 }
