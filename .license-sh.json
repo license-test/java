@@ -2,23 +2,17 @@
   "ignored_packages": {
     "maven": [
       "jmh-generator-annprocess==1.20",
-      "jmh-core==1.20",
-      "javassist==3.22.0-GA",
-      "hamcrest-core==1.3",
       "jackson-core==2.9.5",
       "jackson-databind==2.9.5",
-      "jackson-annotations==2.9.5",
-      "gson==2.8.3",
-      "commons-math3==3.2",
       "jopt-simple==4.6",
       "junit==4.12"
     ]
   },
-  "whitelist": [
-    "New BSD License",
-    "GPL-2.0 w/Classpath Exception"
-  ],
   "projects": [
     "./pom.xml"
+  ],
+  "whitelist": [
+    "GPL-2.0 w/Classpath Exception",
+    "New BSD License"
   ]
 }
