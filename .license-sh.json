@@ -14,7 +14,9 @@
   },
   "whitelist": [
     "GPL-2.0 w/Classpath Exception",
-    "New BSD License"
+    "New BSD License",
+    "Apache-1.0",
+    "AFL-2.1"
   ],
   "projects": [
     "./pom.xml"
