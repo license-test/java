@@ -1,5 +1,5 @@
 {
-  "ignored_packages2": {
+  "ignored_packages": {
     "maven": [
       "jmh-generator-annprocess==1.20",
       "jackson-core==2.9.5",
