@@ -14,8 +14,6 @@
     "LGPL 2.1",
     "Apache-2.0"
   ],
-  "projects": [
-    "./pom.xml"
-  ],
+  "projects": [],
   "overridden_packages": {}
 }
