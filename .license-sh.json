@@ -4,13 +4,15 @@
       "jopt-simple==4.6",
       "junit==4.12",
       "gson==2.8.3",
-      "commons-math3==3.2"
+      "commons-math3==3.2",
+      "javassist==3.22.0-GA"
     ]
   },
   "whitelist": [
     "GPL-2.0 w/Classpath Exception",
     "New BSD License",
-    "LGPL 2.1"
+    "LGPL 2.1",
+    "Apache-2.0"
   ],
   "projects": [
     "./pom.xml"
