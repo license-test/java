@@ -10,38 +10,10 @@
   "whitelist": [
     "GPL-2.0 w/Classpath Exception",
     "New BSD License",
-    "BSD",
-    "Artistic-2.0",
-    "BSD-2-Clause",
-    "BSD-1-Clause",
-    "Unlicense",
-    "JSON",
-    "ISC",
-    "BSL-1.0",
-    "X11",
-    "NCSA",
-    "UPL-1.0",
-    "MPL-1.0",
-    "MPL-1.1",
-    "MPL-2.0",
-    "Zlib",
-    "CC0-1.0",
-    "CC-BY-3.0",
-    "CC-BY-4.0",
-    "WTFPL",
-    "EPL-1.0",
-    "MPL 1.1",
-    "Public Domain",
-    "CPL-1.0",
-    "BSD-3-Clause",
-    "Apache-2.0",
-    "LGPL 2.1",
-    "Apache-1.0",
-    "Apache-1.1"
+    "LGPL 2.1"
   ],
   "projects": [
-    "./pom.xml",
-    "./demo/pom.xml"
+    "./pom.xml"
   ],
   "overridden_packages": {}
 }
