@@ -35,10 +35,13 @@
     "CPL-1.0",
     "BSD-3-Clause",
     "Apache-2.0",
-    "LGPL 2.1"
+    "LGPL 2.1",
+    "Apache-1.0",
+    "Apache-1.1"
   ],
   "projects": [
-    "./pom.xml"
+    "./pom.xml",
+    "./demo/pom.xml"
   ],
   "overridden_packages": {}
 }
