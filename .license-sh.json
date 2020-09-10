@@ -1,15 +1,10 @@
 {
   "ignored_packages": {
     "maven": [
-      "jmh-generator-annprocess==1.20",
-      "jackson-core==2.9.5",
-      "jackson-databind==2.9.5",
       "jopt-simple==4.6",
       "junit==4.12",
-      "jackson-annotations==2.9.5",
       "gson==2.8.3",
-      "commons-math3==3.2",
-      "javassist==3.22.0-GA"
+      "commons-math3==3.2"
     ]
   },
   "whitelist": [
@@ -22,7 +17,6 @@
     "Apache-2.0",
     "MIT",
     "MIT/X11",
-    "BSD-3-Clause",
     "BSD-2-Clause",
     "BSD-1-Clause",
     "Unlicense",
@@ -43,9 +37,11 @@
     "EPL-1.0",
     "MPL 1.1",
     "Public Domain",
-    "CPL-1.0"
+    "CPL-1.0",
+    "BSD-3-Clause"
   ],
   "projects": [
     "./pom.xml"
-  ]
+  ],
+  "overridden_packages": {}
 }
