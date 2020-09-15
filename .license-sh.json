@@ -33,7 +33,8 @@
     "EPL-1.0",
     "MPL 1.1",
     "Public Domain",
-    "CPL-1.0"
+    "CPL-1.0",
+    "Random license"
   ],
   "projects": [
     "./pom.xml"
