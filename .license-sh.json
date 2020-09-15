@@ -41,7 +41,7 @@
   "overridden_packages": {
     "maven": {
       "junit==4.12": {
-        "license": "",
+        "license": "Random license",
         "licenseText": ""
       },
       "hamcrest-core==1.3": {
