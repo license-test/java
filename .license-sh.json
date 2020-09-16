@@ -10,7 +10,10 @@
     "GPL-2.0 w/Classpath Exception",
     "New BSD License",
     "LGPL 2.1",
-    "Random license"
+    "Random license",
+    "EPL-1.0",
+    "Apache-2.0",
+    "MIT"
   ],
   "projects": [
     "./pom.xml"
