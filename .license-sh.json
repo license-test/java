@@ -15,7 +15,9 @@
     "Apache-2.0",
     "MIT"
   ],
-  "projects": [],
+  "projects": [
+    "./pom.xml"
+  ],
   "overridden_packages": {
     "maven": {}
   }
